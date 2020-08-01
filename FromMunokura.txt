@@ -1,0 +1,45 @@
+▼このファイルについて
+永井秀和(ナガイシュウワ)氏が配布しているmidiファイルにループ処理を施し、oggに変換したものをパッケージしました。
+また、短縮して不自然でないショートバージョンもご用意しました。
+
+▼オリジナル配布元
+http://strange-composer-sn.jimdo.com/
+
+
+▼利用規約
+マテリアル・コモンズ・ブルー・ライセンス
+https://materialcommons.tk/mtcm-b-summary/
+
+▼表示クレジット
+編集: fungamemake.com (著作者:永井秀和)
+
+▼ファイル名と曲名
+基本的にフォルダで分けてありますが、ファイル名の後ろに'_l'がついているものはループ処理されています。
+'_s_l'がついているものは、ショートバージョンでループしています。
+一部ループさせるのが困難な曲があり、それは原曲のままoggにコンバートしています。
+BGM(ループ有):19
+BGM(ループ有・ショートバージョン):16
+BGM(ループ無):1
+
+
+ファイル名                  曲名
+altar_l                     祭壇
+altar-after-destruction_l   祭壇(破壊後)
+bad-end_l                   BAD END
+boss_l                      ボス
+dungeon-1_l                 ダンジョン１
+dungeon-2_l                 ダンジョン２
+dungeon-3_l                 ダンジョン３
+dungeon-4_l                 ダンジョン４
+dungeon-5_l                 ダンジョン５
+dungeon-6_l                 ダンジョン６
+encounter_l                 エンカウント
+encounters-2_l              エンカウント２
+event-1_l                   イベント１
+safe-zone_l                 セーフゾーン
+safe-zone-2_l               セーフゾーン２
+search_l                    探索
+sound-effects_l             効果音
+true-end                    TRUE END
+village-mountain-road-1_l   村、山道1
+village-mountain-road-2_l   村、山道2
